@@ -1,0 +1,16 @@
+{
+  "country": "India",
+  "topics": [
+    "economy",
+    "GDP",
+    "inflation",
+    "budget"
+  ],
+  "competitors": [
+    "China",
+    "USA"
+  ],
+  "sources": [
+    "newsapi"
+  ]
+}
