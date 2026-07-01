@@ -1,10 +1,7 @@
 {
-  "country": "India",
+  "country": "Germany",
   "topics": [
-    "economy",
-    "GDP",
-    "inflation",
-    "budget"
+    "GDP"
   ],
   "competitors": [
     "China",

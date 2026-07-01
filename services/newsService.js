@@ -15,7 +15,7 @@ export async function fetchNews(topics) {
         q: query,
         sortBy: "publishedAt",
         language: "en",
-        pageSize: 5,
+        pageSize: 10,
         apiKey: process.env.NEWS_API_KEY,
       },
     });

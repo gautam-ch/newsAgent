@@ -1,7 +1,7 @@
 import { analyzeArticlesBatch } from "../services/llm.js";
 
-// Only send 5 articles to Gemini to keep the prompt small and fast
-const MAX_ARTICLES = 5;
+// Only send 10 articles to Gemini to keep the prompt small and fast
+const MAX_ARTICLES = 10;
 
 /**
  * LangGraph Node: AnalyzeArticles
